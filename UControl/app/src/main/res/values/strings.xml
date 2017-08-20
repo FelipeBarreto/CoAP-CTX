@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UControl</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sensors">SensorsActivity</string>
+    <string name="title_sensors_actuators">U Control</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_no_connection">NoConnectionActivity</string>
+    <string name="reconnect">Try Again</string>
+    <string name="connection_error_main">Something went wrong :(</string>
+    <string name="connection_error_info">Failed to Connect with the Context Service.</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <item name="primaryColor" type="color">#F44336</item>
+    <item name="primaryColorDark" type="color">#D32F2F</item>
+    <item name="primaryColorLight" type="color">#EF9A9A</item>
+    <item name="accentColor" type="color">#E6EE9C</item>
+    <item name="accentColorDark" type="color">#D4E157</item>
+    <item name="accentColorLight" type="color">#F0F4C3</item>
+    <item name="fallbackColor" type="color">#FFFFFF</item>
+</resources>
